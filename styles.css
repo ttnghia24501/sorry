@@ -1,0 +1,15 @@
+body {
+  line-height: 2rem;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(155, 3, 182),
+    rgb(241, 161, 204)
+  );
+}
+.box {
+  text-align: center;
+  color: rgb(240, 69, 69);
+}
+h2 {
+  color: rgba(253, 253, 253, 0.568);
+}
