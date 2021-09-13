@@ -7,11 +7,11 @@ body {
   );
 }
 .box {
-
+  text-align: center;
   color: #007561;
 }
 h2 {
-  color: 659B91;
+  color: #039b81;
 }
 span{
   color:rgba(235, 21, 21, 0.637)
